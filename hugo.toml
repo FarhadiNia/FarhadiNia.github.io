@@ -1,0 +1,4 @@
+baseURL = 'https://farhadinia.github.io/cv/resume/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "resume-a4"
