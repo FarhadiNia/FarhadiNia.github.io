@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - FarhadiNia
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - FarhadiNia/Digital-Communication-Laboratory
+  - FarhadiNia/Presentations
+
