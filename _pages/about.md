@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a Third Year Master’s student in the [School of Electrical & Computer Engineering (ECE)](https://ece.ut.ac.ir/en) in [College of Engineering](https://eng.ut.ac.ir/en) at [University of Tehran](https://eng.ut.ac.ir/en), studying Electrical Engineering; and My Major is Fields & Wave (Communication). My Supervisors are [Prof.Mahmoud Shahabdi] and [Prof. Jalil Rashed-Mohassel](https://scholar.google.com/citations?user=lAox-pUAAAAJ&hl=en), and I am a member of the Photonics Research Lab. 
+I’m a Third Year Master’s student in the [School of Electrical & Computer Engineering (ECE)](https://ece.ut.ac.ir/en) in [College of Engineering](https://eng.ut.ac.ir/en) at [University of Tehran](https://eng.ut.ac.ir/en), studying Electrical Engineering; and My Major is Fields & Wave (Communication). My Supervisors are [Prof.Mahmoud Shahabdi](https://www.researchgate.net/profile/Mahmoud-Shahabadi) and [Prof. Jalil Rashed-Mohassel](https://scholar.google.com/citations?user=lAox-pUAAAAJ&hl=en), and I am a member of the Photonics Research Lab. 
 
 I hold a B.Sc. degree in Electrical Engineering (Communication) from [Shahid Rajaee Teacher Training University(SRTTU)](https://www.sru.ac.ir/en/), which I completed in 2021. My undergraduate thesis focused on `Plane-Wave Reflection from a Grounded Slab of Complex Media`, where I extracted some formula & simulated for some Complex material with `Bi-Anisotropic materials` under the guidance of [Dr. S.Mohammad Hashemi](https://www.researchgate.net/profile/Mahmoud-Shahabadi). 
 
