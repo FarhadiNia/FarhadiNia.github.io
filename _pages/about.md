@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Photonics Research Lab.</p>
     <p>ECE #2, Room #414</p>
-    <p>Uni. of Terhan, College of Eng.</p>
+    <p>Uni. of Terhan, Coll. of Eng.</p>
     <p>Terhan, North Karegar</p>
 
 news: true  # includes a list of news items
@@ -20,8 +20,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a Third Year Master’s student in the [School of Electrical & Computer Engineering (ECE)](https://ece.ut.ac.ir/en) in [College of Engineering](https://eng.ut.ac.ir/en) at [University of Tehran](https://eng.ut.ac.ir/en), studying Electrical Engineering; and My Major is Fields & Wave (Communication). My Supervisors are [Prof.Mahmoud Shahabdi] and [Prof. Jalil Rashed-Mohassel](https://scholar.google.com/citations?user=lAox-pUAAAAJ&hl=en), and I am a member of the Photonics Research Lab. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a B.Sc. degree in Electrical Engineering (Communication) from [Shahid Rajaee Teacher Training University(SRTTU)](https://www.sru.ac.ir/en/), which I completed in 2021. My undergraduate thesis focused on `Plane-Wave Reflection from a Grounded Slab of Complex Media`, where I extracted some formula & simulated for some Complex material with `Bi-Anisotropic materials` under the guidance of [Dr. S.Mohammad Hashemi](https://www.researchgate.net/profile/Mahmoud-Shahabadi). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I interned at [Laboratory of Optics and Bioscience (LOB)](https://portail.polytechnique.edu/lob/en), in [École Polytecqunie](https://www.polytechnique.edu/en) at [Institute Polytechne de Paris](https://www.ip-paris.fr/en), working on Nonlinear Opitcs projects. Other than that I gained experience in various technology involving CPP, Python, and Matlab under the guidance of [Dr. Nichloas Olivier](https://scholar.google.com/citations?user=1Ro9PnQAAAAJ&hl=en) [(NOLab)](https://nolab.github.io/Webpage/alumni.html).
+
+My academic interests are Nonlinear Optics, Integragted Photonics & Quantum Optics.
+
+Feel free to reach out me by farhadinia0@gmail.com. I’m happy to chat :D
+.
