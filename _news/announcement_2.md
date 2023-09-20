@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I finishied Internship
+title: I Start My Internship in France :D
 date: 2023-07-03 00:00:00-0400
 inline: false
 related_posts: false
