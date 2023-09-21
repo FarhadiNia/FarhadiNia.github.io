@@ -31,9 +31,10 @@
 - title: Experience
   type: time_table
   contents:
+
     - title: Research Intern
       institution: École polytechnique, Institute Polytechnique de Paris, Palaiseau, France
-      year: July 2023 - August 2023
+      year: July-August 2023
       description:
         - Description 1.
         - Description 2.
@@ -50,20 +51,20 @@
 
     - title: Guest Student
       institution: Sharif Univeristy Of Technology, Tehran, Iran
-      year: 2023 - One Semester
+      year: 2023-One Semester
       description:
         - I took the Nonlinear Optics Course.
         - Prof. Khashayar Mehrany
 
     - title: Research Assistant
       institution: Shahid Rajaee Teacher Training University, Tehran, Iran
-      year: 2020 - 2021
+      year: 2020-2021
       description:
         - Under Guidance of Dr. S. Mohammad Hashemi
 
     - title: Summer Internship 
       institution: Hormozgan Electric Distribution Company, Hormozgan, Iran
-      year: 2020 - Summer
+      year: 2020-Summer
 
 - title: Open Source Projects
   type: time_table
