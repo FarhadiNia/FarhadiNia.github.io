@@ -26,7 +26,13 @@ I hold a B.Sc. degree in Electrical Engineering (Communication) from [Shahid Raj
 
 Previously, I interned at [Laboratory of Optics and Bioscience (LOB)](https://portail.polytechnique.edu/lob/en), in [École Polytecqunie](https://www.polytechnique.edu/en) at [Institute Polytechne de Paris](https://www.ip-paris.fr/en), working on Nonlinear Opitcs projects. Other than that I gained experience in various technology involving CPP, Python, and Matlab under the guidance of [Dr. Nichloas Olivier](https://scholar.google.com/citations?user=1Ro9PnQAAAAJ&hl=en) [(NOLab)](https://nolab.github.io/Webpage/alumni.html).
 
-My academic interests are Nonlinear Optics, Integragted Photonics & Quantum Optics.
+My academic interests are:
 
-Feel free to reach out me by [farhadinia0@gmail.com](mailto:farhadinia0@gmail.com). I’m happy to chat :D
-.
+- Nonlinear Optics
+- Integragted Photonics
+- Quantum Optics
+- Using AI & ML @ Photonics
+
+Feel free to reach out me by: [farhadinia0@gmail.com](mailto:farhadinia0@gmail.com). I’m happy to chat :D
+
+**I am looking to apply for PhD programs for Spring/Fall 2024!**
