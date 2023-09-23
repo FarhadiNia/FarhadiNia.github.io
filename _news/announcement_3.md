@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I finishied Internship
+Finishied Internship @ [l'X](https://www.polytechnique.edu/en) :D

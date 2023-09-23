@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I just added a new Template to my Portfolio :D
+Added a new template to my Portfolio :D
