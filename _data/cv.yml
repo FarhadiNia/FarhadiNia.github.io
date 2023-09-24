@@ -3,30 +3,29 @@
   contents:
     - name: Full Name
       value: Mohammad Reza Farhadinia
-    - name: Date of Birth
-      value: 16th September 1998
+    - name: Contact
+      value: Farhadinia0@gmail.com
     - name: Languages
-      value: English, French, Persian (Farsi)
+      value: English, French (Basic), Persian (Farsi - Mother Tongue)
 
 - title: Education
   type: time_table
   contents:
-    - title: M.Sc.
+    - title: Master of Science in Electrical Engineering (Communication - Fields & Waves)
       institution: University of Tehran, Tehran, Iran
       year: 2021-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: "Modal Analysis of Optical Integrated Waveguides in LiNbO3 Technology, Supervisors:"
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: B.Sc.
-      institution: Shahid Rajaee Teacher Training University, Tehran, Iran
+            - "Prof. Mahmoud Shahabadi"
+            - Jalil Rashed-Mohassel,
+    - title: Bachelor of Science in Electrical Engineering (Communication)
+      institution: Shahid Rajaee Teacher Training University (SRTTU), Tehran, Iran
       year: 2017-2021
       description:
-        - Description 1.
-        - Description 2.
+        - title: "Supervisor:"
+          contents:
+            - Plane-Wave Reflection from a Grounded Slab of Complex Media
 
 - title: Experience
   type: time_table
