@@ -86,8 +86,8 @@
 - title: Skills
   type: list
   contents:
-    - <span>Specialized Softwares:</span> <b> COMSOL, Lumerical, Matlab, CST Studio Suite, Maple</b> 
-    - <span>General Softwares:</span> <b>Microsoft Word, PowerPoint & Excel, PSpice, ADS</b> 
+    - <span>Specialized Softwares:</span> <b> COMSOL, Lumerical, Matlab, CST Studio Suite, ADS</b> 
+    - <span>General Softwares:</span> <b>Microsoft Word, PowerPoint & Excel, PSpice, Maple</b> 
     - <span>Programming languages:</span> <b>Python, C++, AVR, R</b> 
     - <span>ML Frameworks:</span> <b>NumPy, SciPy, Matplotlib, Pandas, Plotly</b> 
     - <span>Web Frameworks:</span> <b>Front-End (HTML, CSS, JavaScript)</b> 
