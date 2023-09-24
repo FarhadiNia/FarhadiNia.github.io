@@ -11,36 +11,34 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Electrical Engineering (Communication - Fields & Waves)
+    - title: Master of Science in Electrical Engineering (Communication - Field & Wave)
       institution: University of Tehran, Tehran, Iran
       year: 2021-Present
       description:
         - title: "Modal Analysis of Optical Integrated Waveguides in LiNbO3 Technology, Supervisors:"
           contents:
-            - "Prof. Mahmoud Shahabadi"
-            - Jalil Rashed-Mohassel,
+            - Prof. Mahmoud Shahabadi
+            - Prof. Jalil Rashed-Mohassel
     - title: Bachelor of Science in Electrical Engineering (Communication)
       institution: Shahid Rajaee Teacher Training University (SRTTU), Tehran, Iran
       year: 2017-2021
       description:
-        - title: "Supervisor:"
+        - title: "Plane-Wave Reflection from a Grounded Slab of Complex Media, Supervisors:"
           contents:
-            - Plane-Wave Reflection from a Grounded Slab of Complex Media
+            - Dr. S. Mohammad Hashemi
 
-- title: Experience
+- title: Research & Work Experience
   type: time_table
   contents:
-
     - title: Research Intern
       institution: École polytechnique, Institute Polytechnique de Paris, Palaiseau, France
       year: July-August 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: FDTD modeling of coherent nonlinear microscopy, "Supervisor:"
+          - Description 2.
+          - title: 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Dr. Nichloas Olivier
 
     - title: Research Assistant
       institution: University of Tehran, Tehran, Iran
@@ -52,7 +50,7 @@
       institution: Sharif Univeristy Of Technology, Tehran, Iran
       year: 2023-One Semester
       description:
-        - I took the Nonlinear Optics Course.
+        - I took the Nonlinear Optics Course
         - Prof. Khashayar Mehrany
 
     - title: Research Assistant
@@ -61,9 +59,35 @@
       description:
         - Under Guidance of Dr. S. Mohammad Hashemi
 
+    - title: Teaching Intern
+      institution: Hormozgan Electric Distribution Company, Hormozgan, Iran
+      year: Sep-Dec,2020 
+
     - title: Summer Internship 
       institution: Hormozgan Electric Distribution Company, Hormozgan, Iran
-      year: 2020-Summer
+      year: Jun-Aug,2020
+
+
+- title: Skills
+  type: list
+  contents:
+    - <span>Specialized Softwares:</span> COMSOL, Lumerical, Matlab, CST Studio Suite, Maple
+    - <span>General Softwares:</span> Microsoft Word, PowerPoint & Excel, PSpice, ADS
+    - <span>Programming languages:</span> Python, C++, AVR, R
+    - <span>ML Frameworks:</span> NumPy, SciPy, Matplotlib, Pandas, Plotly 
+    - <span>Web Frameworks:</span> Front-End (HTML, CSS, JavaScript)
+    - <span>Technology:</span> Git, LaTex     
+
+- title: Standardized Test Scores
+  type: time_table
+  contents:
+    - title: Graduate Record Examinations (GRE)
+      institution: Overall - "#" (Quant - "#", Verbal - "#", AWA - "#")
+      year: 
+
+    - title: Test of English as a Foreign Language (TOEFL)
+      institution: Overall - "#" (Listening - "#", Reading - "#", Speaking - "#", Writing - "#")
+      year:  
 
 - title: Open Source Projects
   type: time_table
@@ -88,14 +112,12 @@
   contents:
     - title: Nonlinear Optics
       items: 
-        - Description 1.
-        - Description 2.
+        - 
     - title: Photonics Integrated Circuits
       items:
-        - Description 1.
-        - Description 2.
+        - 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Badminton (Professional), Reading Books & Magazines, Learning Languages, Movies, Traveling
+    - <u>Hobbies:</u> Badminton, Reading Books & Magazines, Learning Languages, Movies, Traveling
