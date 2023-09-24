@@ -6,7 +6,7 @@
     - name: Contact
       value: Farhadinia0@gmail.com
     - name: Languages
-      value: English, French (Basic), Persian (Farsi - Mother Tongue)
+      value: English (Professional Working), French (Basic), Persian (Farsi - Mother Tongue)
 
 - title: Education
   type: time_table
@@ -35,8 +35,6 @@
       year: July-August,2023
       description:
         - title: FDTD modeling of coherent nonlinear microscopy, "Supervisor:"
-          - Description 2.
-          - title: 
           contents:
             - Dr. Nichloas Olivier
 
@@ -73,10 +71,18 @@
     - title: Introduction to Quantum Computing for Everyone 1
       year: Summer,2022
       description: 
+        - edX Online Course
 
-    - title: Advanced Python Programming and Object‑Oriented Thinking
+    - title: Advanced Python Programming and Object-Oriented Thinking
       year: Summer,2021
       description:   
+        - Quera College Online Course
+
+    - title: AVR Microcontroller 
+      year: Fall,2017
+      institution: Iran University of Science & Technology, Tehran, Iran
+      description:
+        - Technical Course
 
 - title: Skills
   type: list
