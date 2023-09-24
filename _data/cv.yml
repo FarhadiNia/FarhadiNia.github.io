@@ -7,6 +7,17 @@
       value: Farhadinia0@gmail.com
     - name: Languages
       value: English (Professional Working), French (Basic), Persian (Farsi - Mother Tongue)
+      
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Optics & Photonics  
+     items: 
+         - Nonlinear Optics & Photonic Integrated Circuits (PICs)
+    - title: Quantum Optics & Quantum Information
+    - title: Theory of Machine Learning & Deep Learning
+      items:
+        - Optical Neural Networks
 
 - title: Education
   type: time_table
@@ -23,7 +34,7 @@
       institution: Shahid Rajaee Teacher Training University (SRTTU), Tehran, Iran
       year: 2017-2021
       description:
-        - title: "Plane-Wave Reflection from a Grounded Slab of Complex Media Supervisors:"
+        - title: "Plane-Wave Reflection from a Grounded Slab of Complex Media Supervisor:"
           contents:
             - Dr. S. Mohammad Hashemi
 
@@ -65,6 +76,16 @@
       Company: Hormozgan Electric Distribution Company, Hormozgan, Iran
       year: Jun-Aug,2020
 
+- title: Skills
+  type: list
+  contents:
+    - <span>Specialized Softwares:</span> <b> COMSOL, Lumerical, Matlab, CST Studio Suite, Maple</b> 
+    - <span>General Softwares:</span> <b>Microsoft Word, PowerPoint & Excel, PSpice, ADS</b> 
+    - <span>Programming languages:</span> <b>Python, C++, AVR, R</b> 
+    - <span>ML Frameworks:</span> <b>NumPy, SciPy, Matplotlib, Pandas, Plotly</b> 
+    - <span>Web Frameworks:</span> <b>Front-End (HTML, CSS, JavaScript)</b> 
+    - <span>Technology:</span> <b>Git, LaTex</b>  
+
 - title: Licenses & Certifications
   type: time_table
   contents:
@@ -82,17 +103,7 @@
       year: Fall,2017
       institution: Iran University of Science & Technology, Tehran, Iran
       description:
-        - Technical Course
-
-- title: Skills
-  type: list
-  contents:
-    - <span>Specialized Softwares:</span> <b> COMSOL, Lumerical, Matlab, CST Studio Suite, Maple</b> 
-    - <span>General Softwares:</span> <b>Microsoft Word, PowerPoint & Excel, PSpice, ADS</b> 
-    - <span>Programming languages:</span> <b>Python, C++, AVR, R</b> 
-    - <span>ML Frameworks:</span> <b>NumPy, SciPy, Matplotlib, Pandas, Plotly</b> 
-    - <span>Web Frameworks:</span> <b>Front-End (HTML, CSS, JavaScript)</b> 
-    - <span>Technology:</span> <b>Git, LaTex</b>      
+        - Technical Course    
 
 - title: Standardized Test Scores
   type: time_table
@@ -122,17 +133,6 @@
 #    - year: 
 #      items: 
 #        - 
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Nonlinear Optics
-#     items: 
-#        - 
-    - title: Photonics Integrated Circuits (PICs)
-#      items:
-#        - 
-    - title: Quantum Optics
 
 - title: Other Interests
   type: list
