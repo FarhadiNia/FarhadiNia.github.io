@@ -11,11 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Electrical Engineering (Communication - Field & Wave)
+    - title: Master of Science in Electrical Engineering (Comm. - Field & Wave)
       institution: University of Tehran, Tehran, Iran
       year: 2021-Present
       description:
-        - title: "Modal Analysis of Optical Integrated Waveguides in LiNbO3 Technology, Supervisors:"
+        - title: "Modal Analysis of Optical Integrated Waveguides in LiNbO3 Technology Supervisors:"
           contents:
             - Prof. Mahmoud Shahabadi
             - Prof. Jalil Rashed-Mohassel
@@ -32,7 +32,7 @@
   contents:
     - title: Research Intern
       institution: École polytechnique, Institute Polytechnique de Paris, Palaiseau, France
-      year: July-August 2023
+      year: July-August,2023
       description:
         - title: FDTD modeling of coherent nonlinear microscopy, "Supervisor:"
           - Description 2.
@@ -60,13 +60,23 @@
         - Under Guidance of Dr. S. Mohammad Hashemi
 
     - title: Teaching Intern
-      institution: Hormozgan Electric Distribution Company, Hormozgan, Iran
+      institution: Vocational School, Hormozgan, Iran
       year: Sep-Dec,2020 
 
     - title: Summer Internship 
       institution: Hormozgan Electric Distribution Company, Hormozgan, Iran
       year: Jun-Aug,2020
 
+- title: Licenses & Certifications
+  type: time_table
+  contents:
+    - title: Introduction to Quantum Computing for Everyone 1
+      year: Summer,2022
+      description: 
+
+    - title: Advanced Python Programming and Object‑Oriented Thinking
+      year: Summer,2021
+      description:   
 
 - title: Skills
   type: list
@@ -88,13 +98,6 @@
     - title: Test of English as a Foreign Language (TOEFL)
       institution: Overall - "#" (Listening - "#", Reading - "#", Speaking - "#", Writing - "#")
       year:  
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: 
-      year: 
-      description: 
 
 - title: Honors and Awards
   type: time_table
