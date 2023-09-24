@@ -8,6 +8,17 @@
     - name: Languages
       value: English (Professional Working), French (Basic), Persian (Farsi - Mother Tongue)
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Optics & Photonics  
+      items: 
+         - Nonlinear Optics & Photonic Integrated Circuits (PICs)
+    - title: Quantum Optics & Quantum Information
+    - title: Theory of Machine Learning & Deep Learning
+      items:
+        - Optical Neural Networks
+
 - title: Education
   type: time_table
   contents:
@@ -36,7 +47,7 @@
       description:
         - title: "FDTD modeling of coherent nonlinear microscopy   Supervisor:"
           contents:
-            - Dr. Nichloas Olivier
+            - Dr. Nicolas Olivier
 
     - title: Research Assistant
       institution: University of Tehran, Tehran, Iran
@@ -100,17 +111,6 @@
       institution: Iran University of Science & Technology, Tehran, Iran
       description:
         - Technical Course    
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Optics & Photonics  
-      items: 
-         - Nonlinear Optics & Photonic Integrated Circuits (PICs)
-    - title: Quantum Optics & Quantum Information
-    - title: Theory of Machine Learning & Deep Learning
-      items:
-        - Optical Neural Networks
 
 - title: Standardized Test Scores
   type: time_table
