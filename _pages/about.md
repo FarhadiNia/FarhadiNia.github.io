@@ -35,4 +35,4 @@ My academic interests are:
 
 Feel free to reach out me by: [farhadinia0@gmail.com](mailto:farhadinia0@gmail.com). I’m happy to chat :D
 
-**`I am looking to apply for PhD programs for Spring/Fall 2024!`**
+**I am looking to apply for PhD programs for Spring/Fall 2024!**
