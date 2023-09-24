@@ -7,7 +7,7 @@
       value: Farhadinia0@gmail.com
     - name: Languages
       value: English (Professional Working), French (Basic), Persian (Farsi - Mother Tongue)
-      
+
 - title: Academic Interests
   type: nested_list
   contents:
@@ -62,6 +62,12 @@
         - I took the Nonlinear Optics Course
         - Prof. Khashayar Mehrany
 
+    - title: Technical Teacher
+      institution: Public Vocational Schools, Hormozgan, Iran
+      year: Mar,2021-Sep,2022 
+      description:
+        - Official Teacher
+
     - title: Research Assistant
       institution: Shahid Rajaee Teacher Training University, Tehran, Iran
       year: 2020-2021
@@ -73,8 +79,9 @@
       year: Sep-Dec,2020 
 
     - title: Summer Internship 
-      Company: Hormozgan Electric Distribution Company, Hormozgan, Iran
       year: Jun-Aug,2020
+      description: 
+        - Hormozgan Electric Distribution Company, Hormozgan, Iran
 
 - title: Skills
   type: list
