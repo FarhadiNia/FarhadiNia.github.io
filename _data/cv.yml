@@ -23,7 +23,7 @@
       institution: Shahid Rajaee Teacher Training University (SRTTU), Tehran, Iran
       year: 2017-2021
       description:
-        - title: "Plane-Wave Reflection from a Grounded Slab of Complex Media, Supervisors:"
+        - title: "Plane-Wave Reflection from a Grounded Slab of Complex Media Supervisors:"
           contents:
             - Dr. S. Mohammad Hashemi
 
@@ -34,7 +34,7 @@
       institution: École polytechnique, Institute Polytechnique de Paris, Palaiseau, France
       year: July-August,2023
       description:
-        - title: FDTD modeling of coherent nonlinear microscopy, "Supervisor:"
+        - title: "FDTD modeling of coherent nonlinear microscopy   Supervisor:"
           contents:
             - Dr. Nichloas Olivier
 
@@ -62,7 +62,7 @@
       year: Sep-Dec,2020 
 
     - title: Summer Internship 
-      institution: Hormozgan Electric Distribution Company, Hormozgan, Iran
+      Company: Hormozgan Electric Distribution Company, Hormozgan, Iran
       year: Jun-Aug,2020
 
 - title: Licenses & Certifications
@@ -87,12 +87,12 @@
 - title: Skills
   type: list
   contents:
-    - <span>Specialized Softwares:</span> COMSOL, Lumerical, Matlab, CST Studio Suite, Maple
-    - <span>General Softwares:</span> Microsoft Word, PowerPoint & Excel, PSpice, ADS
-    - <span>Programming languages:</span> Python, C++, AVR, R
-    - <span>ML Frameworks:</span> NumPy, SciPy, Matplotlib, Pandas, Plotly 
-    - <span>Web Frameworks:</span> Front-End (HTML, CSS, JavaScript)
-    - <span>Technology:</span> Git, LaTex     
+    - <span>Specialized Softwares:</span> <b> COMSOL, Lumerical, Matlab, CST Studio Suite, Maple</b> 
+    - <span>General Softwares:</span> <b>Microsoft Word, PowerPoint & Excel, PSpice, ADS</b> 
+    - <span>Programming languages:</span> <b>Python, C++, AVR, R</b> 
+    - <span>ML Frameworks:</span> <b>NumPy, SciPy, Matplotlib, Pandas, Plotly</b> 
+    - <span>Web Frameworks:</span> <b>Front-End (HTML, CSS, JavaScript)</b> 
+    - <span>Technology:</span> <b>Git, LaTex</b>      
 
 - title: Standardized Test Scores
   type: time_table
@@ -105,26 +105,34 @@
       institution: Overall - "#" (Listening - "#", Reading - "#", Speaking - "#", Writing - "#")
       year:  
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 
-      items: 
-        - 
-        - 
-    - year: 
-      items: 
-        - 
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/">3D Ball Balancing Game using C++ and OpenGL</a>
+#      year: 
+#      description: 
+
+#- title: Honors and Awards
+#  type: time_table
+# contents:
+#    - year: 
+#      items: 
+#        - 
+#       - 
+#    - year: 
+#      items: 
+#        - 
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Nonlinear Optics
-      items: 
-        - 
-    - title: Photonics Integrated Circuits
-      items:
-        - 
+#     items: 
+#        - 
+    - title: Photonics Integrated Circuits (PICs)
+#      items:
+#        - 
+    - title: Quantum Optics
 
 - title: Other Interests
   type: list
