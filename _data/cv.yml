@@ -22,7 +22,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Electrical Engineering (Comm. - Field & Wave)
+    - title: Master of Science in Electrical Engineering (TeleComm. - Field & Wave)
       institution: University of Tehran, Tehran, Iran
       year: 2021-Present
       description:
@@ -30,26 +30,26 @@
           contents:
             - Prof. Mahmoud Shahabadi
             - Prof. Jalil Rashed-Mohassel
-    - title: Bachelor of Science in Electrical Engineering (Communication) & Diploma in Education in Électronique
+    - title: Bachelor of Science in Electrical Engineering (Communications) & Diploma in Education in Électronique
       institution: Shahid Rajaee Teacher Training University (SRTTU), Tehran, Iran
       year: 2017-2021
       description:
-        - title: "Plane-Wave Reflection from a Grounded Slab of Complex Media Supervisor:"
+        - title: "Plane-Wave Reflection from a Grounded Slab of Complex Media               Supervisor:"
           contents:
             - Dr. S. Mohammad Hashemi
 
 - title: Research & Work Experience
   type: time_table
   contents:
-    - title: Research Intern
+    - title: Research Intern in Laboratory for Optics & Biosciences
       institution: École polytechnique, Institute Polytechnique de Paris, Palaiseau, France
       year: July-August,2023
       description:
-        - title: "FDTD modeling of coherent nonlinear microscopy   Supervisor:"
+        - title: "FDTD modeling of coherent nonlinear microscopy                Supervisor:"
           contents:
             - Dr. Nicolas Olivier
 
-    - title: Research Assistant
+    - title: Research Assistant in Photonics Research Laboratory
       institution: University of Tehran, Tehran, Iran
       year: 2022-Present   
       description:
@@ -59,8 +59,9 @@
       institution: Sharif Univeristy Of Technology, Tehran, Iran
       year: 2023-One Semester
       description:
-        - I took the Nonlinear Optics Course
-        - Prof. Khashayar Mehrany
+        - title: Nonlinear Optics Course
+          contents:
+            - Dr. S. Mohammad Hashemi
 
     - title: Technical Teacher
       institution: Public Vocational Schools, Hormozgan, Iran
