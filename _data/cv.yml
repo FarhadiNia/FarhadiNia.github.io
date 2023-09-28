@@ -61,7 +61,7 @@
       description:
         - title: Nonlinear Optics Course
           contents:
-            - Dr. S. Mohammad Hashemi
+            - Prof. Khashayar Mehrany
 
     - title: Technical Teacher
       institution: Public Vocational Schools, Hormozgan, Iran
@@ -73,7 +73,8 @@
       institution: Shahid Rajaee Teacher Training University, Tehran, Iran
       year: 2020-2021
       description:
-        - Under Guidance of Dr. S. Mohammad Hashemi
+        contents:
+          - Dr. S. Mohammad Hashemi
 
     - title: Teaching Intern
       institution: Vocational School, Hormozgan, Iran
