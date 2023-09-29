@@ -32,7 +32,6 @@ My academic interests are:
 - Nonlinear Optics
 - Integragted Photonics
 - Quantum Optics
-- Using AI & ML @ Photonics
 
 Feel free to reach out me by: [farhadinia0@gmail.com](mailto:farhadinia0@gmail.com). I’m happy to chat :D
 
