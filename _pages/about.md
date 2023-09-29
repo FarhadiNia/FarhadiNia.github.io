@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Photonics Research Lab.</p>
-    <p>ECE #2, Room #414</p>
+    <p>ECE Building #2, Room #414</p>
     <p>Uni.of Terhan, Col.of Eng.</p>
     <p>Terhan, North Karegar</p>
 
