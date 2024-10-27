@@ -14,7 +14,9 @@
     - title: Optics & Photonics  
       items: 
          - Nonlinear Optics & Photonic Integrated Circuits (PICs)
-    - title: Quantum Optics & Quantum Information
+    - title: Quantum Photonics and Large-Scale Photonics
+      items:
+        - Optical Interconnection Networks
     - title: Theory of Machine Learning & Deep Learning
       items:
         - Optical Neural Networks
@@ -24,7 +26,7 @@
   contents:
     - title: Master of Science in Electrical Engineering (TeleComm. - Field & Wave)
       institution: University of Tehran, Tehran, Iran
-      year: 2021-Present
+      year: 2021-2024
       description:
         - title: "Modal Analysis of Optical Integrated Waveguides in LiNbO3 Technology Supervisors:"
           contents:
@@ -34,7 +36,7 @@
       institution: Shahid Rajaee Teacher Training University (SRTTU), Tehran, Iran
       year: 2017-2021
       description:
-        - title: "Plane-Wave Reflection from a Grounded Slab of Complex Media               Supervisor:"
+        - title: "Plane-Wave Reflection from a Grounded Slab of Complex Media"
           contents:
             - Dr. S. Mohammad Hashemi
 
@@ -45,9 +47,15 @@
       institution: École polytechnique, Institute Polytechnique de Paris, Palaiseau, France
       year: July-August,2023
       description:
-        - title: "FDTD modeling of coherent nonlinear microscopy                Supervisor:"
+        - title: "FDTD modeling of coherent nonlinear microscopy"
           contents:
             - Dr. Nicolas Olivier
+
+    - title: Technical Teacher
+      institution: Public Vocational Schools, Hormozgan, Iran
+      year: Sep,2024-Present 
+      description:
+        - Official Teacher
 
     - title: Research Assistant in Photonics Research Laboratory
       institution: University of Tehran, Tehran, Iran
