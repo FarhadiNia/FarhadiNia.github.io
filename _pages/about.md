@@ -28,9 +28,9 @@ I hold a Bachelor of Science (B.Sc.) degree with 142 credits in Electrical Engin
 
 My academic interests are:
 
-- Optics & Photonics | Nonlinear Optics & Photonic Integrated Circuits
-- Quantum Photonics and Large-Scale Photonics | Optical Interconnection Networks
-- Theory of Machine Learning & Deep Learning | Optical Neural Networks
+- Optics & Photonics -> Nonlinear Optics & Photonic Integrated Circuits
+- Quantum Photonics and Large-Scale Photonics -> Optical Interconnection Networks
+- Theory of Machine Learning & Deep Learning -> Optical Neural Networks
 
 Feel free to reach out me by: [farhadinia0@gmail.com](mailto:farhadinia0@gmail.com). I’m happy to chat :D
 
