@@ -40,6 +40,13 @@
           contents:
             - Dr. S. Mohammad Hashemi
 
+- title: Specialized Courses
+  type: list
+  contents:
+    - <u>Graduate:</u> Nonlinear Optics, Fundamentals of Photonics, Optical Fiber, Quantum Optics,
+Numerical Techniques in Electromagnetics, Advanced Electromagnetics
+    - <u>Undergraduate:</u> Antenna and Microwave, Feilds and Waves, Electromagnetics, DSP, Siganl and Systems
+
 - title: Research & Work Experience
   type: time_table
   contents:
