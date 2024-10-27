@@ -43,8 +43,8 @@
 - title: Specialized Courses
   type: list
   contents:
-    - <u>Graduate:</u> Nonlinear Optics, Fundamentals of Photonics, Optical Fiber, Quantum Optics, Numerical Techniques in Electromagnetics, Meta Materials, Advanced Electromagnetics
-    - <u>Undergraduate:</u> Introduction to Antenna and Microwave, Feilds and Waves, Electromagnetics, DSP, Siganl and Systems
+    - <u>Graduate:</u> Nonlinear Optics, Fundamentals of Photonics, Optical Fiber, Quantum Optics, Numerical Techniques in Electromagnetics, Meta Materials, Advanced Electromagnetics, Advanced Engineering Mathematics
+    - <u>Undergraduate:</u> Introduction to Antenna and Microwave, Feilds and Waves, Electromagnetics, DSP, Siganl and Systems, Engineering Mathematics
 
 - title: Research & Work Experience
   type: time_table
