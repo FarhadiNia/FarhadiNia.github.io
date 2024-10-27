@@ -26,7 +26,7 @@ Previously, I interned at the [Laboratory for Optics and Biosciences (LOB)](http
 I hold a Bachelor of Science (B.Sc.) degree with 142 credits in Electrical Engineering (Communications). I also hold a Diploma in Education (Dip.Ed.) with 30 credits from [Shahid Rajaee Teacher Training University (SRTTU)](https://www.sru.ac.ir/en/), which I completed in 2021. My undergraduate thesis focused on `Plane-Wave Reflection from a Grounded Slab of Complex Media`. During this research, I extracted formulas and performed simulations for complex materials, including `bi-anisotropic materials`, under the guidance of [Dr. S. Mohammad Hashemi](https://scholar.google.com/citations?user=SNoTWX8AAAAJ&hl=en).
 
 
-My academic interests are:
+My research interests are:
 
 - Optics & Photonics -> Nonlinear Optics & Photonic Integrated Circuits
 - Quantum Photonics and Large-Scale Photonics -> Optical Interconnection Networks
