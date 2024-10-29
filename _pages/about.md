@@ -32,6 +32,6 @@ My research interests are:
 - Quantum Photonics and Large-Scale Photonics -> Optical Interconnection Networks
 - Theory of Machine Learning & Deep Learning -> Optical Neural Networks
 
-Feel free to reach out me by: [farhadinia0@gmail.com](mailto:farhadinia0@gmail.com). I’m happy to chat :D
+Feel free to reach out me by: farhadinia0 (at) gmail (dot) com. I’m happy to chat :D
 
 **I am looking to apply for PhD programs for Spring/Fall 2025!**
