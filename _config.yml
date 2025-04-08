@@ -205,7 +205,10 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages']
+include:
+  - _pages
+  - jupyter-book/_static
+  - jupyter-book/_sources
 exclude:
   - bin
   - Gemfile
