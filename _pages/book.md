@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Jupyter Book
+nav: true
+nav_order: 6
 permalink: /book/
 ---
 
