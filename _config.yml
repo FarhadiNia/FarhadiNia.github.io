@@ -215,6 +215,7 @@ keep_files:
   - CNAME
   - .nojekyll
   - .git
+  - jupyter-book
 
 # Plug-ins
 plugins:
