@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Jupyter Book
+title: J-Book
 nav: true
 nav_order: 6
-permalink: /book/
+permalink: /jupyter-book/
 ---
 
-<iframe src="/jupyter-book/index.html" width="100%" height="1000px" style="border: none;">
-  Your browser does not support iframes.
-</iframe>
+<<a href="/jupyter-book/index.html">📘 Open Jupyter Book</a>

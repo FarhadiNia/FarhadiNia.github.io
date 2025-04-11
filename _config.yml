@@ -219,6 +219,8 @@ keep_files:
   - .nojekyll
   - .git
   - jupyter-book
+  - jupyter-book/_static
+  - jupyter-book/_sources
 
 # Plug-ins
 plugins:
