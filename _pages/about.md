@@ -28,9 +28,9 @@ I hold a Bachelor of Science (B.Sc.) degree with 142 credits in Electrical Engin
 
 My research interests are:
 
-- Optics & Photonics -> Nonlinear Optics & Photonic Integrated Circuits
-- Large-Scale Photonics -> Optical Interconnection Networks & Optical Neural Networks
-- Quantum & RF Photonics -> Quantum Cascade Lasers, Quantum Integrated Circuits & Microwave Quantum Optics
+- Optics & Photonics -> Nonlinear Optics, Photonic Integrated Circuits (PICs), Optomechanics, M(N)EMS
+- Quantum & RF Photonics -> Quantum Cascade Lasers (QCLs), Superconducting Quantum Circuits, Microwave Quantum Optics
+- Large-Scale Photonics -> Optical Interconnection Networks, Quantum Interconnects
 
 Feel free to reach out to me at farhadinia0 (at) gmail (dot) com. I’m happy to chat :D
 
