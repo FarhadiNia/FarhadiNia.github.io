@@ -13,13 +13,13 @@
   contents:
     - title: Optics & Photonics  
       items: 
-         - Nonlinear Optics & Photonic Integrated Circuits (PICs)
-    - title: Quantum Photonics and Large-Scale Photonics
+         - Nonlinear Optics, Photonic Integrated Circuits (PICs), Optomechanics, M(N)EMS
+    - title: Quantum & RF Photonics
       items:
-        - Optical Interconnection Networks
-    - title: Theory of Machine Learning & Deep Learning
+        - Quantum Cascade Lasers (QCLs), Superconducting Quantum Circuits, Microwave Quantum Optics
+    - title: Large-Scale Photonics
       items:
-        - Optical Neural Networks
+        - Optical Interconnection Networks, Quantum Interconnects
 
 - title: Education
   type: time_table
@@ -130,10 +130,6 @@
 - title: Standardized Test Scores
   type: time_table
   contents:
-    - title: Graduate Record Examinations (GRE)
-      institution: Overall - "#" (Quant - "#", Verbal - "#", AWA - "#")
-      year: 
-
     - title: Test of English as a Foreign Language (TOEFL)
       institution: Overall - "#" (Listening - "#", Reading - "#", Speaking - "#", Writing - "#")
       year:  
@@ -159,4 +155,5 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Badminton, Reading Books & Magazines, Learning Languages, Movies, Traveling
+    - <u>Hobbies:</u> Reading books, poems, and scientific magazines, Badminton, Movies and series, Learning languages, Traveling
+
