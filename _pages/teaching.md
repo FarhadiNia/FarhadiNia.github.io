@@ -7,6 +7,28 @@ nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I teach technical courses in a vocational school, including Basic\Advanced Technical Knowledge for both electronic and electrotechnic majors across two grades.
 
-Organize your courses by years, topics, or universities, however you like!
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+
+  <figure style="width: 200px; text-align: center;">
+    <img src="/assets/img/Course-1.jpg" alt="Photo 1" style="width: 100%; height: auto;">
+    <figcaption>Basic Technical Knowledge - Electronic</figcaption>
+  </figure>
+
+  <figure style="width: 200px; text-align: center;">
+    <img src="/assets/img/Course-2.jpg" alt="Photo 2" style="width: 100%; height: auto;">
+    <figcaption>Basic Technical Knowledge - Electrotechnic</figcaption>
+  </figure>
+
+  <figure style="width: 200px; text-align: center;">
+    <img src="/assets/img/Course-3.jpg" alt="Photo 3" style="width: 100%; height: auto;">
+    <figcaption>Advanced Technical Knowledge - Electronic</figcaption>
+  </figure>
+
+  <figure style="width: 200px; text-align: center;">
+    <img src="/assets/img/Course-4.jpg" alt="Photo 4" style="width: 100%; height: auto;">
+    <figcaption>Advanced Technical Knowledge - Electrotechnic</figcaption>
+  </figure>
+
+</div>
