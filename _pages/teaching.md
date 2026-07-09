@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-I teach technical courses in a vocational school, including Basic/Advanced Technical Knowledge for electronics and electrotechnics majors across three grades.
+I teach technical courses in a vocational school for electronics and electrotechnics majors for all three grades.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
 
