@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
-redirect_to: /Nonlinear-Anisotropic-Material-Plugin/
+permalink: /Nonlinear-Anisotropic-Material-Plugin/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 4
