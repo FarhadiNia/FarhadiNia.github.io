@@ -2,12 +2,19 @@
 layout: page
 title: Projects
 permalink: /projects/
+redirect_to: /Nonlinear-Anisotropic-Material-Plugin/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
+
+<p>
+Redirecting to the project...
+If you are not redirected automatically,
+<a href="https://farhadinia.github.io/Nonlinear-Anisotropic-Material-Plugin/">click here</a>.
+</p>
 
 <!-- pages/projects.md -->
 <div class="projects">
