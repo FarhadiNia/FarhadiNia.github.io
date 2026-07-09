@@ -13,7 +13,7 @@
   contents:
     - title: Optics & Photonics  
       items: 
-         - Nonlinear Optics, Photonic Integrated Circuits (PICs), Optomechanics, M(N)EMS
+         - Nonlinear Optics, Photonic Integrated Circuits (PICs), Optomechanics, M(N)EMS, Optical Fibers, Lasers, Optical Frequency Combs & Microresonators
     - title: Quantum & RF Photonics
       items:
         - Quantum Cascade Lasers (QCLs), Superconducting Quantum Circuits, Microwave Quantum Optics
@@ -127,12 +127,12 @@
       description:
         - Technical Course    
 
-- title: Standardized Test Scores
-  type: time_table
-  contents:
-    - title: Test of English as a Foreign Language (TOEFL)
-      institution: Overall - "#" (Listening - "#", Reading - "#", Speaking - "#", Writing - "#")
-      year:  
+# - title: Standardized Test Scores
+#  type: time_table
+#  contents:
+#    - title: Test of English as a Foreign Language (TOEFL)
+#      institution: Overall - "#" (Listening - "#", Reading - "#", Speaking - "#", Writing - "#")
+#      year:  
 
 #- title: Open Source Projects
 #  type: time_table
