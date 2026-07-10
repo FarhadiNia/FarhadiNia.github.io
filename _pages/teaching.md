@@ -37,6 +37,11 @@ I teach technical courses in a vocational school for electronics and electrotech
   </figure>
 
   <figure style="width: 200px; text-align: center;">
+    <img src="/assets/img/Course-10.jpg" alt="Photo 6" style="width: 100%; height: auto;">
+    <figcaption>Design and installation of protective facilities and smart buildings - 11th grade, Electrotechnics</figcaption>
+  </figure>
+
+  <figure style="width: 200px; text-align: center;">
     <img src="/assets/img/Course-3.jpg" alt="Photo 7" style="width: 100%; height: auto;">
     <figcaption>Advanced technical knowledge - 12th grade Electronics</figcaption>
   </figure>
@@ -54,11 +59,6 @@ I teach technical courses in a vocational school for electronics and electrotech
   <figure style="width: 200px; text-align: center;">
     <img src="/assets/img/Course-9.jpg" alt="Photo 10" style="width: 100%; height: auto;">
     <figcaption>Workplace requirements - 10th grade, All of Majors</figcaption>
-  </figure>
-
-  <figure style="width: 200px; text-align: center;">
-    <img src="/assets/img/Course-10.jpg" alt="Photo 6" style="width: 100%; height: auto;">
-    <figcaption>Design and installation of protective facilities and smart buildings - 11th grade, Electrotechnics</figcaption>
   </figure>
 
 </div>
