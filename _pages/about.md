@@ -14,9 +14,9 @@ profile:
     <p>Uni.of Terhan, Col.of Eng.</p>
     <p>Terhan, North Karegar</p>
 
+selected_papers: true # includes a list of papers marked as "selected={true}"
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
  My name is Mohammad Reza Farhadinia (Persian: محمدرضا فرهادی‌نیا, click [here](https://www.nameshouts.com/names/all-languages/pronounce-mohammad-reza-farhadi-nia) for pronunciation), and I am from Iran.  I recently graduated from the [School of Electrical and Computer Engineering (ECE)](https://ece.ut.ac.ir/en) in the [College of Engineering](https://eng.ut.ac.ir/en) at the [University of Tehran](https://ut.ac.ir/en) with a master's degree. I studied Electrical Engineering, specializing in Field and Wave (Communications). My supervisors are Professors [Mahmoud Shahabadi](https://www.researchgate.net/profile/Mahmoud-Shahabadi) and [Jalil Rashed-Mohassel](https://scholar.google.com/citations?user=lAox-pUAAAAJ&hl=en), and I am a member of the Photonics Research Lab. My master's thesis, `Modal Analysis of Optical Integrated Waveguides in LiNbO3 Technology` was successfully defended.
