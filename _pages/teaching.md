@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Courses I taught.
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 I teach technical courses in a vocational school for electronics and electrotechnics majors for each of three grades.
